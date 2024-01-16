@@ -22,7 +22,7 @@ I'm an IT Engineer by profession and a Teacher by passion.
 I share my knowledge by creating Coding & Interview preparation Ideas.  
 
 
-I also speak at colleges and technical conferences. I'm just an invite away - bharatkumarthapa@proton.me
+If you wanna do mail. here is my address - bharatkumarthapa@proton.me
 
 Technologies:
 - Javascript, React, Python, C#
