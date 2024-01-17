@@ -1,8 +1,5 @@
 # Hello World,
 
-<a href="https://youtube.com/bharatkumarthapa">
-  <img align="left" alt="Bharat Kumar Thapa - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
-</a>
 <a href="https://linkedin.com/in/bharatkumarthapa">
   <img align="left" alt="Bharat Kumar Thapa - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
