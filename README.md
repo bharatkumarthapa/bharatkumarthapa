@@ -15,7 +15,7 @@
 <br />
 <br />
 
-I'm an IT Engineer by profession and a Teacher by passion.  
+I'm an IT Engineer by profession and a Ctrl C > CTRL V by passion.  
 I share my knowledge by creating Coding & Interview preparation Ideas.  
 
 
