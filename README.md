@@ -29,7 +29,7 @@ If you wanna do mail. here is my address - bharatkumarthapa@proton.me
 
 Technologies:
 - Javascript, React, Python, C#
-- Node, Java, Ruby on Rails
+- Node, Java
 
 Also interested in:
 - Digital Marketing, SEO, SMM, Blogging, Web Security, Wordpress  
