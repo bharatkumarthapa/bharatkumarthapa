@@ -33,7 +33,7 @@ Technologies:
 - Node, Java
 
 Also interested in:
-- Digital Marketing, SEO, SMM, Blogging, Web Security, Wordpress  
+- Digital Marketing, SEO, Blogging, Web Security, Wordpress  
 
 Cheers,  
 Bharat Kumar Thapa  
