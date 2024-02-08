@@ -3,7 +3,7 @@
 <a href="https://linkedin.com/in/bharatkumarthapa">
   <img align="left" alt="Bharat Kumar Thapa - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
-<a href="https://instagram.com/thapa">
+<a href="https://instagram.com/">
   <img align="left" alt="Bharat Kumar Thapa - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
 <a href="https://twitter.com/bhar">
