@@ -9,7 +9,7 @@
 <a href="https://twitter.com/bhar">
   <img align="left" alt="Bharat Kumar Thapa - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
-<a href="https://facebook.com/bharatkumarthapa">
+<a href="https://facebook.com/bharatkumara">
   <img align="left" alt="Bharat Kumar Thapa - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
 <a href="https://facebook.com/bharatkumarthapa">
