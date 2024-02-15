@@ -16,6 +16,9 @@
 <a href="https://facebook.com/">
   <img align="left" alt="Bharat Kumar Thapa - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg"/>
 </a>
+<a href="">
+  <img align="left" alt="Bharat Kumar Thapa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg"/>
+</a>
 
 <br />
 <br/>
