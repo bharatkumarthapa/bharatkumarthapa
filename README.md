@@ -38,4 +38,4 @@ Also interested in:
 
 Cheers,  
 Bharat Kumar Thapa  
-<!-- [Bharatkumarthapa.com.np](https://Bharatkumarthapa.com.np/) -->
+
