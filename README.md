@@ -39,3 +39,11 @@ Also interested in:
 Cheers,  
 Bharat Kumar Thapa  
 
+## 🎧 Vibing to Tunes
+<div>
+    &emsp;&emsp;&emsp;
+      <a>  
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yxy5sa3bp3iunr7d6payyjd6sy&count=1" alt="Current Spotify Song">
+    </a>  
+</div>
+
