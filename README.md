@@ -27,7 +27,7 @@ I'm an IT Engineer by profession and a Ctrl C > CTRL V by passion.
 I share my knowledge by creating Coding & Interview preparation Ideas.  
 
 
-If you wanna do mail. here is my address - bharatkumarthapa@proton.me
+E-mail. here is my address - bharatkumarthapa@proton.me
 
 Technologies:
 - Javascript, React, Python, C#
